@@ -232,7 +232,7 @@ curl -X DELETE http://localhost:9200/ind-3
 health status index uuid                   pri rep docs.count docs.deleted store.size pri.store.size
 green  open   test  TFA1HV_rRwWuWa_u_yu-qg   1   0          0            0       225b           225b
 ```
-![](img/sc_03_2.png)  
+![](img/sc_03_2.PNG)  
 
 
 **Список файлов в директории со snapshot-ами:**  
